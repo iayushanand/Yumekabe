@@ -3,7 +3,7 @@ minimu resolution should be 1024x768
 
  1.  Rename your wallpaper(s): Add one of the valid postfixes below to the filename.  For example, beach.png becomes beach_col.png.
 
- 2.  Place your renamed wallpaper(s) in the dump folder.
+ 2.  Place your renamed wallpaper(s) in a folder named `dump` in root directory.
 
  3.  Create a pull request (PR). The GitHub workflow will automatically handle distributing the files.
 
