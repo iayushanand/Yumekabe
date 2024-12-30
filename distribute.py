@@ -54,7 +54,6 @@ with open("README.md", "w") as readme:
     dump_text = ""
     dump_text+=pre_text
     for category in os.listdir("wallpapers"):
-        if category == "other": continue
         dump_text+=f"## {category}\n"
         dump_text+="<details><summary></summary>\n"
         for img in os.listdir(f"wallpapers/{category}"):
