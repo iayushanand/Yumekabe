@@ -1,4 +1,5 @@
 To contribute your wallpapers to this repository (and I would greatly appreciate it!), please follow these steps:
+minimu resolution should be 1024x768
 
  1.  Rename your wallpaper(s): Add one of the valid postfixes below to the filename.  For example, beach.png becomes beach_col.png.
 
