@@ -30,7 +30,7 @@ jobs:
       - name: Commit and Push changes
         run: |
           git add .
-          git commit -m "Update wallpapers and README [skip ci]"
+          git commit -m "Update wallpapers and README"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
