@@ -1,8 +1,7 @@
 
 # welcome to my personal wallpaper dump
-(inspired by [flicko](https://github.com/flickowoa/kabegami)) <br>
+(inspired by [flicko](https://github.com/flickowoa/kabegami))<br>
 to add your wallpapers read [commit.md](commit.md)
-
 
 ## previews
 <hr>
@@ -21,6 +20,7 @@ to add your wallpapers read [commit.md](commit.md)
 
 ## colorful
 <details><summary></summary>
+<img src="./wallpapers/colorful/bunny.png" title = "bunny"><br>
 <img src="./wallpapers/colorful/beach.jpg" title = "beach"><br>
 <img src="./wallpapers/colorful/Golden-Sunset-Over-City-Skyline-AI-Generated-4K-Wallpaper.jpg" title = "Golden-Sunset-Over-City-Skyline-AI-Generated-4K-Wallpaper"><br>
 </details>
