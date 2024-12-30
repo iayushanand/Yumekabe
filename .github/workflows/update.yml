@@ -16,8 +16,21 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.13'
+          python-version: '3.12'
 
       - name: Run Python script to move files
         run: |
           python distribute.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push changes
+        run: |
+          git add .
+          git commit -m "Update wallpapers and README [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
