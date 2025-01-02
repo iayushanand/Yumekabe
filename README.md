@@ -79,6 +79,7 @@ to add your wallpapers read [commit.md](commit.md)
 ## digital art
 <details><summary></summary>
 <img src="./wallpapers/digital art/dusk-girl.png" title = "dusk-girl"><br>
+<img src="./wallpapers/digital art/purple-girl-cat-skyline.jpg" title = "purple-girl-cat-skyline"><br>
 </details>
 
 ## fantasy
