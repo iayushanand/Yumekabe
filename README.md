@@ -1,6 +1,6 @@
 
 # welcome to my personal wallpaper dump
-(inspired by [flicko](https://github.com/flickowoa/kabegami))<br>
+(inspired by [flickowoa/kabegami](https://github.com/flickowoa/kabegami))<br>
 to add your wallpapers read [commit.md](commit.md)
 
 ## previews
